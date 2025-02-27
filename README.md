@@ -58,7 +58,7 @@
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=William-fp&show_icons=true&theme=radical&include_all_commits=true" 
+    src="https://github-readme-stats.vercel.app/api?username=F_mesquita341&show_icons=true&theme=radical&include_all_commits=true" 
   />
 
 
